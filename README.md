@@ -76,7 +76,7 @@ For eg :
 ```javascript
 import React, { Component } from 'react';
 import styled from 'styled-components';
-import LazyImage from 'react-lazy-blur-image';
+import LazyImage from 'lazy-react-blur';
 
 const Image = styled.img`
   height: 450px;
