@@ -1,13 +1,13 @@
-# react-lazy-blur-image
+# lazy-react-blur-image
 
 Load low resolution / placeholder image first and then load the actual image lazily when it's in the viewport.
 
 <hr/>
 
-[![](https://nodei.co/npm/react-lazy-blur-image.png?compact=true)](https://nodei.co/npm/react-lazy-progressive-image/)
+[![](https://nodei.co/npm/lazy-react-blur-image.png?compact=true)](https://nodei.co/npm/react-lazy-progressive-image/)
 
-[![npm](https://img.shields.io/npm/dm/react-blur-image.svg?style=for-the-badge)](https://www.npmjs.com/package/react-lazy-blur-image)
-[![npm](https://img.shields.io/npm/l/react-blur-image.svg?style=for-the-badge)](https://www.npmjs.com/package/react-lazy-blur-image)
+[![npm](https://img.shields.io/npm/dm/react-blur-image.svg?style=for-the-badge)](https://www.npmjs.com/package/lazy-react-blur-image)
+[![npm](https://img.shields.io/npm/l/react-blur-image.svg?style=for-the-badge)](https://www.npmjs.com/package/lazy-react-blur-image)
 
 </p>
 <hr/>
