@@ -4,7 +4,7 @@ Load low resolution / placeholder image first and then load the actual image laz
 
 <hr/>
 
-[![](https://nodei.co/npm/lazy-react-blur-image.png?compact=true)](https://nodei.co/npm/react-lazy-progressive-image/)
+[![](https://nodei.co/npm/lazy-react-blur.png?compact=true)](https://nodei.co/npm/react-lazy-progressive-image/)
 
 [![npm](https://img.shields.io/npm/dm/react-blur-image.svg?style=for-the-badge)](https://www.npmjs.com/package/lazy-react-blur-image)
 [![npm](https://img.shields.io/npm/l/react-blur-image.svg?style=for-the-badge)](https://www.npmjs.com/package/lazy-react-blur-image)
