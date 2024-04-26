@@ -7,11 +7,11 @@
 * Includes a complete Webpack example on how to integrate blurred placeholders for dev and production (again, see the blurring section).
 
 ## Installation
-```npm install react-blur```
+```npm install lazy-react-blur```
 
 ## Usage
 ```
-import ReactLazyBlur from 'react-blur'
+import ReactLazyBlur from 'lazy-react-blur'
 
 ....
 
