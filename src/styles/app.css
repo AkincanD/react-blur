@@ -1,0 +1,58 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	min-width: 100vw;
+	overflow-x: hidden;
+}
+
+.react-lazy-blur {
+	position: relative;
+}
+
+.react-lazy-blur:hover > .link-container {
+	opacity: 1;
+}
+
+.react-lazy-blur,
+.react-lazy-blur .background,
+.react-lazy-blur .blur{
+	min-width: 100vw;
+	min-height: 100vh;
+}
+
+.react-lazy-blur .background,
+.react-lazy-blur .blur {
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.link-container {
+	position: absolute;
+	top: 16px;
+	right: 16px;
+	cursor: pointer;
+	opacity: 0;
+	transition: opacity 0.5s;
+}
+
+.link {
+	padding: 8px;
+	background-color: white;
+	font-family: monospace;
+}
+
+.octocat {
+	position: fixed;
+	bottom: 16px;
+	right: 16px;
+	width: 64px;
+	height: 64px;
+	background-image: url("./../images/Octocat.jpg");
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 64px;
+	cursor: pointer;
+}
