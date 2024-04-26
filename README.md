@@ -1,4 +1,4 @@
-# lazy-react-blur-image
+# lazy-react-blur
 
 Load low resolution / placeholder image first and then load the actual image lazily when it's in the viewport.
 
